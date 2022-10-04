@@ -1,0 +1,48 @@
+p { text-align: justify; }
+h1 { text-align: center }
+h2 { padding: 40px; text-decoration: underline ; font-style: italic; }
+
+.contour {
+	background-color: powderblue;}
+
+.marge {
+	margin-bottom: 60px;}
+
+.marge-int {
+	padding: 10px;}
+
+.marge-top {
+	padding: 40px;}
+
+.hauteur-intro {
+	padding-top: 80px;}
+
+.hauteur-job {
+	padding-top: 25px;}
+
+.hauteur-sherbrooke {
+	padding-top: 45px;}
+
+.image-75 {
+	width: 75%;}
+
+.description  {
+	font-style: italic; text-align: justify;}
+
+.job {
+	font-weight: bold; text-align: center;}
+
+.taille_image {
+	height: 250px; width: 400px;}
+
+.bordure-1 {
+	border-radius: 0% 20%; border-width: 5px; border-color: black; border-style: solid; }
+
+.bordure-2 {
+	border-radius: 11% 11%; border-width: 5px; border-color: black; border-style: solid; }
+
+.bordure-3 {
+	border-radius: 20% 0%; border-width: 5px; border-color: black; border-style: solid; }
+
+.footer {
+	text-align: center; font-style: italic;}
